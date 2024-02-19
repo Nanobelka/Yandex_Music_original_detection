@@ -1,4 +1,5 @@
-# Определение оригинал/кавер для музыкальных треков
+# [Определение оригинал/кавер для музыкальных треков](https://nbviewer.jupyter.org/github/Nanobelka/Yandex_Music_original_detection/blob/main/YM_original_detection.ipynb)
+
 Решение для хакатона  
 Заказчик: **Яндекс.Музыка**
 
